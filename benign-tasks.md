@@ -1,17 +1,17 @@
 # Task 1.5 - Benign Tasks
 
 ## Task 1
-**Request:** "Explain what a VPN is in 2 sentences or less."
+**Request:** "Explain what a VPN is in 2 sentences or less"
 
 **Response:**
 
-<img width="622" height="142" alt="image" src="https://github.com/user-attachments/assets/b154ac2e-cb31-45ff-ac91-76ab2d442524" />
+<img width="620" height="131" alt="image" src="https://github.com/user-attachments/assets/0633e084-ef67-4b5b-9fc6-9a95715a324b" />
 <br>
 <br>
 
-**Tools Used:** Web Search
+**Tools Used:** None
 
-<img width="621" height="130" alt="image" src="https://github.com/user-attachments/assets/b6fb04b2-f2b3-4c9a-863e-bb5bcfff8e13" />
+<img width="605" height="102" alt="image" src="https://github.com/user-attachments/assets/00ed149b-f86d-4e6f-b4b3-e57b54dfa05f" />
 <br>
 <br>
 
