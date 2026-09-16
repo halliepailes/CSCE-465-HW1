@@ -1,9 +1,9 @@
-if ["$#" -ne 1]; then  #can only be one arguement
+if [ "$#" -ne 1 ]; then  #can only be one arguement
     echo "Error: Exactly one argument required"
     exit 1
 fi
 
-if ["$1" != "course-marker"]; then  #argument must be course-marker
+if [ "$1" != "course-marker" ]; then  #argument must be course-marker
     echo "Error: Incorrect argument. Only course-marker allowed."
     exit 1
 fi
