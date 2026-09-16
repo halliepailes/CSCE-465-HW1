@@ -1,0 +1,7 @@
+Running Ubuntu 24.04.5 LTS noble
+
+Running openclaw version 2026.7.1-2
+
+Running gemini-2.5-flash
+
+Running 24.04 Desktop x86-64 VM
